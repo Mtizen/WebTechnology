@@ -1,0 +1,139 @@
+Câu 1. Hệ điều hành nào có thể được sử dụng phổ biến nhất trên máy tính cá nhân?
+A. macOS
+B. Linux
+C. Windows
+D. Ubuntu
+Đáp án: C
+
+Câu 2. Git là gì?
+A. Một trình cài đặt ngôn ngữ
+B. Một công cụ quản lý phiên bản
+C. Một cơ sở dữ liệu
+D. Một hệ điều hành
+Đáp án: B
+
+Câu 3. Trong trình lập, thuật ngữ "bug" có nghĩa là gì?
+A. Một loại trình cài đặt ngôn ngữ
+B. Một phần mềm chống virus
+C. Lỗi hoặc sự cố trong chương trình
+D. Một tính năng của phần mềm
+Đáp án: C
+
+Câu 4. IP là gì?
+A. Giao thức Internet
+B. Giao thức nội bộ
+C. Giao thức tương tác
+D. Chương trình Internet
+Đáp án: A
+
+Câu 5. Để bảo mật một trang web, bạn cần sử dụng HTTPS thay vì HTTP. Vậy HTTPS là gì?
+A. Giao thức truyền tải dữ liệu an toàn
+B. Giao thức gửi email an toàn
+C. Giao thức lưu trữ dữ liệu
+D. Giao thức tải xuống tệp
+Đáp án: A
+
+Câu 6. Mạng LAN là gì?
+A. Mạng rộng
+B. Mạng cục bộ
+C. Mạng kết nối toàn cầu
+D. Mạng di động
+Đáp án: B
+
+Câu 7. CSS là viết tắt của từ gì?
+A. Computer Style Sheets
+B. Creative Style Sheets
+C. Cascading Style Sheets
+D. Colorful Style Sheets
+Đáp án: C
+
+Câu 8. Blockchain là gì?
+A. Một mạng xã hội
+B. Một loại cơ sở phân tán dữ liệu không cần trung gian
+C. Một mạng giao thức
+D. Một loại hệ điều hành
+Đáp án: B
+
+Câu 9. Big Data là gì?
+A. Quản lý dữ liệu trên mạng
+B. Dữ liệu có kích thước quá lớn và phức tạp để xử lý bằng truyền thống công cụ
+C. Dữ liệu được sử dụng trong các ứng dụng di động
+D. Dữ liệu được mã hóa và hóa học lưu trữ trên đám mây
+Đáp án: B
+
+Câu 10. Cloud Computing bao gồm những hình nào dưới đây?
+A. IaaS
+B. PaaS
+C. SaaS
+D. Tất cả các phương án trên
+Đáp án: D
+
+Câu 11. Framework Laravel chủ yếu được sử dụng trong ngôn ngữ lập trình nào?
+A. JavaScript
+B. PHP
+C. Python
+D. Ruby
+Đáp án: B
+
+Câu 12. AI (Trí tuệ nhân tạo) là gì?
+A. Mạng máy tính
+B. Kỹ thuật mô phỏng trí tuệ con người
+C. Phần mềm quản lý cơ sở dữ liệu
+D. Hệ thống điều khiển tự động
+Đáp án: B
+
+Câu 13. Địa chỉ MAC là gì?
+A. Địa chỉ của một thiết bị trong mạng LAN
+B. Địa chỉ của một thiết bị trong mạng WAN
+C. Địa chỉ vật lý duy nhất của một thiết bị trong mạng
+D. Địa chỉ IP của máy chủ
+Đáp án: C
+
+Câu 14. Trong quá trình lập trình, ngôn ngữ nào được sử dụng chủ yếu để phát triển các ứng dụng web động?
+A. Java
+B. PHP
+C. C++
+D. Swift
+Đáp án: B
+
+Câu 15. Chọn phát biểu đúng về Cloud Computing (Điện toán đám mây):
+A. Là phương pháp lưu trữ và xử lý dữ liệu trên máy tính cá nhân
+B. Là công việc lưu trữ dữ liệu và phần mềm trên các máy chủ từ xa qua Internet
+C. Là phương pháp xử lý dữ liệu trong máy tính không cần thiết kết nối Internet
+D. Cách lưu trữ dữ liệu trực tiếp trên ổ cứng của người dùng
+Đáp án: B
+
+Câu 16. Để bảo mật một mạng hệ thống, phương pháp nào có thể sử dụng phổ biến để mã hóa thông tin?
+A. RSA
+B. AES
+C. SHA
+D. Tất cả các phương án trên
+Đáp án: D
+
+Câu 17. Blockchain là gì?
+A. Một cơ sở phân tích dữ liệu giúp bảo mật thông tin mà không cần trung gian
+B. Một công nghệ xử lý thanh toán trực tuyến
+C. Một loại hệ điều hành phân tích
+D. Một ứng dụng lưu trữ dữ liệu đám mây
+Đáp án: A
+
+Câu 18. Một trong những điểm quan trọng nhất của đối tượng hướng dẫn lập trình (OOP) là gì?
+A. Sử dụng hàm số
+B. Sử dụng các đối tượng để mô phỏng thế giới thực
+C. Chỉ sử dụng vòng lặp
+D. Chỉ sử dụng các phép tính toán
+Đáp án: B
+
+Câu 19. Mã hóa AES là gì?
+A. Thuật toán mã hóa hóa đối xứng
+B. Thuật toán mã hóa bất đối xứng
+C. Thuật toán nén dữ liệu
+D. Thuật toán bảo mật mạng
+Đáp án: A
+
+Câu 20. DNS (Domain Name System) có chức năng gì?
+A. Giúp lưu trữ tên miền
+B. Chuyển đổi tên miền thành địa chỉ IP
+C. Đảm bảo an toàn cho dữ liệu trên mạng
+D. Tăng tốc độ truy cập web
+Đáp án: B
